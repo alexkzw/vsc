@@ -1,3 +1,6 @@
 print("Python has entered.")
 
-print("HellO")
+print("Hello")
+
+test = "tester"
+warning = "blah"
